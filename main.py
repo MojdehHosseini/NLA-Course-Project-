@@ -1,27 +1,58 @@
+from nltk.corpus import sentence_polarity
 import nltk
-from nltk.chunk import conlltags2tree, tree2conlltags
+from nltk.corpus import sentence_polarity
+from grammar_generator import GrammarGenerator
+from sentiment_analyzer import SentimentAnalyzer
+from parser import Parser
+from utils import custom_sentence_splitter
+from nltk.corpus import movie_reviews
 
-# Sample text
-text = "Apple Inc. is a company headquartered in Cupertino, California."
+def main():
+    # Load sentences from the provided data file
+    file_path = 'Data.txt'  # Replace with the path to your data file
+    with open(file_path, 'r') as file:
+        data_sentences = file.readlines()
 
-# Tokenize and perform POS tagging
-tokens = nltk.word_tokenize(text)
-pos_tags = nltk.pos_tag(tokens)
+    # Assuming each line in the file is a separate sentence
+    # Optionally, you could apply custom_sentence_splitter if the file contains longer texts
+    sentences = [sentence.strip() for sentence in data_sentences]
 
-# Create IOB tags for NER (default to 'O' for Outside)
-iob_tags = [(word, pos, 'O') for word, pos in pos_tags]
+    # Create an instance of the SentimentAnalyzer class
+    sentiment_analyzer = SentimentAnalyzer()
 
-# Define a simple rule to identify proper nouns as entities
-for i, (word, pos, _) in enumerate(iob_tags):
-    if pos in ['NNP', 'NNPS']:
-        iob_tags[i] = (word, pos, 'B-PERSON')
+    correct_predictions = 0
 
-# Create a tree from the IOB tags
-tree = conlltags2tree(iob_tags)
+    # Process each sentence in the file
+    for sentence in sentences:
+        print("Generating grammar for the sentence...")
+        grammar = GrammarGenerator().update_grammar(sentence)
 
-# Extract NER entities from the tree
-iob_tags = tree2conlltags(tree)
+        print("Parsing the sentence...")
+        # Assuming analysis_type is known; modify as needed
+        analysis_type = 'negative'
 
-# Print the results
-for word, pos, ner_tag in iob_tags:
-    print(f"{word} ({ner_tag})")
+        true_label = Parser(grammar).parse_sentence(sentence, analysis_type)
+
+        # Predict sentiment using SentimentAnalyzer
+        predicted_label, sentiment_score = sentiment_analyzer.AFINN_score(sentence)
+
+        # Write results to file
+        with open("affin", 'a') as file:
+            file.write(f"Sentence: {sentence}\n")
+            file.write(f"True label: {true_label}\n")
+            file.write(f"Predicted label: {predicted_label}\n")
+            file.write(f"Sentiment score: {sentiment_score}\n")
+
+        if predicted_label == true_label:
+            correct_predictions += 1
+
+    # Calculate and print accuracy
+    accuracy = correct_predictions / len(sentences)
+    print("Accuracy:", accuracy)
+
+    with open("affin", 'a') as file:
+        file.write(f"Accuracy: {accuracy}\n")
+        file.write("\n\n")
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,791 @@
+Sentence: it has low impact but it’s a compelling story
+true_label: positive
+predicted_label: neutral
+sentiment_score: 0
+Accuracy: 0.0
+
+
+Sentence: it has gut-wrenching impact and it is a compelling story
+true_label: positive
+predicted_label: neutral
+sentiment_score: 0
+Accuracy: 0.0
+
+
+
+
+
+Sentence: simplistic , silly and tedious .
+true_label: neutral
+predicted_label: negative
+sentiment_score: -1
+Sentence: simplistic , silly and tedious .
+true_label: neutral
+predicted_label: negative
+sentiment_score: -1
+Sentence: simplistic , silly and tedious .
+true_label: neutral
+predicted_label: negative
+sentiment_score: -1
+Sentence: simplistic , silly and tedious .
+true_label: neutral
+predicted_label: negative
+sentiment_score: -1
+Sentence: simplistic , silly and tedious .
+true_label: neutral
+predicted_label: negative
+sentiment_score: -1
+Sentence: simplistic , silly and tedious .
+true_label: neutral
+predicted_label: negative
+sentiment_score: -1
+Sentence: it's so laddish and juvenile , only teenage boys could possibly find it funny .
+true_label: neutral
+predicted_label: positive
+sentiment_score: 4
+Sentence: simplistic , silly and tedious .
+true_label: neutral
+predicted_label: negative
+sentiment_score: -1
+Sentence: it's so laddish and juvenile , only teenage boys could possibly find it funny .
+true_label: neutral
+predicted_label: positive
+sentiment_score: 4
+Sentence: exploitative and largely devoid of the depth or sophistication that would make watching such a graphic treatment of the crimes bearable .
+true_label: neutral
+predicted_label: neutral
+sentiment_score: 0
+Sentence: [garbus] discards the potential for pathological study , exhuming instead , the skewed melodrama of the circumstantial situation .
+true_label: neutral
+predicted_label: negative
+sentiment_score: -1
+Sentence: a visually flashy but narratively opaque and emotionally vapid exercise in style and mystification .
+true_label: neutral
+predicted_label: neutral
+sentiment_score: 0
+Accuracy: 0.00037516413430876007
+
+
+Sentence: simplistic , silly and tedious .
+true_label: neutral
+predicted_label: negative
+sentiment_score: -1
+Sentence: it's so laddish and juvenile , only teenage boys could possibly find it funny .
+true_label: neutral
+predicted_label: positive
+sentiment_score: 4
+Sentence: exploitative and largely devoid of the depth or sophistication that would make watching such a graphic treatment of the crimes bearable .
+true_label: neutral
+predicted_label: neutral
+sentiment_score: 0
+Sentence: [garbus] discards the potential for pathological study , exhuming instead , the skewed melodrama of the circumstantial situation .
+true_label: neutral
+predicted_label: negative
+sentiment_score: -1
+Sentence: a visually flashy but narratively opaque and emotionally vapid exercise in style and mystification .
+true_label: neutral
+predicted_label: neutral
+sentiment_score: 0
+Accuracy: 0.00037516413430876007
+
+
+Sentence: simplistic , silly and tedious .
+true_label: neutral
+predicted_label: negative
+sentiment_score: -1
+Sentence: it's so laddish and juvenile , only teenage boys could possibly find it funny .
+true_label: neutral
+predicted_label: positive
+sentiment_score: 4
+Sentence: exploitative and largely devoid of the depth or sophistication that would make watching such a graphic treatment of the crimes bearable .
+true_label: neutral
+predicted_label: neutral
+sentiment_score: 0
+Sentence: [garbus] discards the potential for pathological study , exhuming instead , the skewed melodrama of the circumstantial situation .
+true_label: neutral
+predicted_label: negative
+sentiment_score: -1
+Sentence: a visually flashy but narratively opaque and emotionally vapid exercise in style and mystification .
+true_label: neutral
+predicted_label: neutral
+sentiment_score: 0
+Accuracy: 0.00037516413430876007
+
+
+Sentence: simplistic , silly and tedious .
+true_label: neutral
+predicted_label: negative
+sentiment_score: -1
+Sentence: it's so laddish and juvenile , only teenage boys could possibly find it funny .
+true_label: neutral
+predicted_label: positive
+sentiment_score: 4
+Sentence: exploitative and largely devoid of the depth or sophistication that would make watching such a graphic treatment of the crimes bearable .
+true_label: neutral
+predicted_label: neutral
+sentiment_score: 0
+Sentence: [garbus] discards the potential for pathological study , exhuming instead , the skewed melodrama of the circumstantial situation .
+true_label: neutral
+predicted_label: negative
+sentiment_score: -1
+Sentence: a visually flashy but narratively opaque and emotionally vapid exercise in style and mystification .
+true_label: neutral
+predicted_label: neutral
+sentiment_score: 0
+Accuracy: 0.00037516413430876007
+
+
+Sentence: p
+true_label: neutral
+predicted_label: neutral
+sentiment_score: 0
+Sentence: l
+true_label: neutral
+predicted_label: neutral
+sentiment_score: 0
+Sentence: o
+true_label: neutral
+predicted_label: neutral
+sentiment_score: 0
+Sentence: t
+true_label: neutral
+predicted_label: neutral
+sentiment_score: 0
+Sentence: plot : two teen couples go to a church party , drink and then drive .
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: they get into an accident .
+True label: negative
+Predicted label: negative
+Sentiment score: -2
+Sentence: one of the guys dies , but his girlfriend continues to see him in her life , and has nightmares .
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: plot : two teen couples go to a church party , drink and then drive .
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: they get into an accident .
+True label: negative
+Predicted label: negative
+Sentiment score: -2
+Sentence: one of the guys dies , but his girlfriend continues to see him in her life , and has nightmares .
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: plot : two teen couples go to a church party , drink and then drive .
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: they get into an accident .
+True label: negative
+Predicted label: negative
+Sentiment score: -2
+Sentence: one of the guys dies , but his girlfriend continues to see him in her life , and has nightmares .
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: plot : two teen couples go to a church party , drink and then drive .
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: they get into an accident .
+True label: negative
+Predicted label: negative
+Sentiment score: -2
+Sentence: one of the guys dies , but his girlfriend continues to see him in her life , and has nightmares .
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: simplistic , silly and tedious .
+true_label: neutral
+predicted_label: negative
+sentiment_score: -1
+Sentence: it's so laddish and juvenile , only teenage boys could possibly find it funny .
+true_label: neutral
+predicted_label: positive
+sentiment_score: 4
+Sentence: exploitative and largely devoid of the depth or sophistication that would make watching such a graphic treatment of the crimes bearable .
+true_label: neutral
+predicted_label: neutral
+sentiment_score: 0
+Sentence: [garbus] discards the potential for pathological study , exhuming instead , the skewed melodrama of the circumstantial situation .
+true_label: neutral
+predicted_label: negative
+sentiment_score: -1
+Sentence: a visually flashy but narratively opaque and emotionally vapid exercise in style and mystification .
+true_label: neutral
+predicted_label: neutral
+sentiment_score: 0
+Accuracy: 0.00037516413430876007
+
+
+Sentence: a sentimental mess that never rings true .
+true_label: neutral
+predicted_label: neutral
+sentiment_score: 0
+Sentence: while the performances are often engaging , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary .
+true_label: neutral
+predicted_label: negative
+sentiment_score: -1
+Sentence: interesting , but not compelling .
+true_label: neutral
+predicted_label: positive
+sentiment_score: 2
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: neutral
+Predicted label: positive
+Sentiment score: 4
+Sentence: while the performances are often engaging , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary
+True label: neutral
+Predicted label: negative
+Sentiment score: -1
+Sentence: it is so laddish and juvenile.
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: neutral
+Predicted label: positive
+Sentiment score: 4
+Sentence: while the performances are often engaging , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary
+True label: neutral
+Predicted label: negative
+Sentiment score: -1
+Sentence: it is so laddish and juvenile.
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: neutral
+Predicted label: positive
+Sentiment score: 4
+Sentence: while the performances are often engaging , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary
+True label: neutral
+Predicted label: negative
+Sentiment score: -1
+Sentence: it is so laddish and juvenile.
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: neutral
+Predicted label: positive
+Sentiment score: 4
+Sentence: while the performances are often engaging , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary
+True label: neutral
+Predicted label: negative
+Sentiment score: -1
+Sentence: it is so laddish and juvenile.
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: neutral
+Predicted label: positive
+Sentiment score: 4
+Sentence: while the performances are often engaging , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary
+True label: neutral
+Predicted label: negative
+Sentiment score: -1
+Sentence: it is so laddish and juvenile.
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: neutral
+Predicted label: positive
+Sentiment score: 4
+Sentence: while the performances are often engaging , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary
+True label: neutral
+Predicted label: negative
+Sentiment score: -1
+Sentence: it is so laddish and juvenile.
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: neutral
+Predicted label: positive
+Sentiment score: 4
+Sentence: while the performances are often engaging , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary
+True label: neutral
+Predicted label: negative
+Sentiment score: -1
+Sentence: it is so laddish and juvenile.
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: only teenage boys could possibly find it funny.
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: neutral
+Predicted label: positive
+Sentiment score: 4
+Sentence: while the performances are often engaging , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary
+True label: neutral
+Predicted label: negative
+Sentiment score: -1
+Sentence: it is so laddish and juvenile.
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: only teenage boys could possibly find them funny.
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: neutral
+Predicted label: positive
+Sentiment score: 4
+Sentence: while the performances are often engaging , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary
+True label: neutral
+Predicted label: negative
+Sentiment score: -1
+Sentence: it is so laddish and juvenile.
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: only teenage boys could possibly find them funny.
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: neutral
+Predicted label: positive
+Sentiment score: 4
+Sentence: while the performances are often engaging , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary
+True label: neutral
+Predicted label: negative
+Sentiment score: -1
+Sentence: it is so laddish and juvenile.
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: they could possibly find them funny.
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: neutral
+Predicted label: positive
+Sentiment score: 4
+Sentence: while the performances are often engaging , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary
+True label: neutral
+Predicted label: negative
+Sentiment score: -1
+Sentence: it is so laddish and juvenile.
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: they could find it.
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: neutral
+Predicted label: positive
+Sentiment score: 4
+Sentence: while the performances are often engaging , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary
+True label: neutral
+Predicted label: negative
+Sentiment score: -1
+Sentence: it is so laddish and juvenile.
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: they could find it funny.
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: neutral
+Predicted label: positive
+Sentiment score: 4
+Sentence: while the performances are often engaging , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary
+True label: neutral
+Predicted label: negative
+Sentiment score: -1
+Sentence: it is so laddish and juvenile.
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: they could find it funny.
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: negative
+Predicted label: positive
+Sentiment score: 4
+Sentence: while the performances are often engaging , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary
+True label: neutral
+Predicted label: negative
+Sentiment score: -1
+Sentence: it is so laddish and juvenile.
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: they could find it funny.
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: negative
+Predicted label: positive
+Sentiment score: 4
+Sentence: while the performances are often engaging , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary
+True label: neutral
+Predicted label: negative
+Sentiment score: -1
+Sentence: It was too long but entertaining
+True label: neutral
+Predicted label: positive
+Sentiment score: 2
+Sentence: it is so laddish and juvenile.
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Sentence: they could find it funny.
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: negative
+Predicted label: positive
+Sentiment score: 4
+Sentence: while the performances are often engaging , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary
+True label: neutral
+Predicted label: negative
+Sentiment score: -1
+Sentence: It was too long but entertaining
+True label: neutral
+Predicted label: positive
+Sentiment score: 2
+Sentence: it is so laddish and juvenile.
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Sentence: they could find it funny.
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: negative
+Predicted label: positive
+Sentiment score: 4
+Sentence: while the performances are often engaging , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary
+True label: neutral
+Predicted label: negative
+Sentiment score: -1
+Sentence: It was too long but entertaining
+True label: neutral
+Predicted label: positive
+Sentiment score: 2
+Sentence: I saw a dull and scary movie, it was a mess and a hazard
+True label: neutral
+Predicted label: negative
+Sentiment score: -6
+Sentence: this may not have the dramatic gut-wrenching impact of other holocaust films , but it’s a compelling story , mainly because of the way it’s told by the people who were there .
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Sentence: a perfect example of rancid , well-intentioned , but shamelessly manipulative movie making .
+True label: neutral
+Predicted label: positive
+Sentiment score: 3
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: negative
+Predicted label: positive
+Sentiment score: 4
+Sentence: while the performances are often engaging , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary
+True label: neutral
+Predicted label: negative
+Sentiment score: -1
+Sentence: It was too long but entertaining
+True label: neutral
+Predicted label: positive
+Sentiment score: 2
+Sentence: I saw a dull and scary movie, it was a mess and a hazard
+True label: neutral
+Predicted label: negative
+Sentiment score: -6
+Accuracy: 0.0
+
+
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: negative
+Predicted label: positive
+Sentiment score: 4
+Sentence: while the performances are often engaging , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary
+True label: neutral
+Predicted label: negative
+Sentiment score: -1
+Sentence: It was too long but entertaining
+True label: neutral
+Predicted label: positive
+Sentiment score: 2
+Sentence: I saw a dull and scary movie, it was a mess and a hazard
+True label: negative
+Predicted label: negative
+Sentiment score: -6
+Accuracy: 0.25
+
+
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: negative
+Predicted label: positive
+Sentiment score: 4
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: negative
+Predicted label: positive
+Sentiment score: 4
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: negative
+Predicted label: positive
+Sentiment score: 4
+Sentence: it is so laddish and juvenile , only teenage boys could possibly find it funny
+True label: negative
+Predicted label: positive
+Sentiment score: 4
+Sentence: It was too long but entertaining
+True label: neutral
+Predicted label: positive
+Sentiment score: 2
+Accuracy: 0.0
+
+
+Sentence: It was too long but entertaining
+True label: positive
+Predicted label: positive
+Sentiment score: 2
+Accuracy: 1.0
+
+
+Sentence: It was too long but entertaining
+True label: positive
+Predicted label: positive
+Sentiment score: 2
+Accuracy: 1.0
+
+
+Sentence: I saw a dull and scary movie, it was a mess and a hazard
+True label: negative
+Predicted label: negative
+Sentiment score: -6
+Accuracy: 1.0
+
+
+Sentence: this may not have the dramatic gut-wrenching impact of other holocaust films , but it’s a compelling story , mainly because of the way it’s told by the people who were there .
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Accuracy: 1.0
+
+
+Sentence: this may not have the dramatic gut-wrenching impact of other holocaust films , but it’s a compelling story.
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Accuracy: 1.0
+
+
+Sentence: this may not have the dramatic gut-wrenching impact of other holocaust films.
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Accuracy: 0.0
+
+
+Sentence: this may not have the dramatic gut-wrenching impact of other holocaust films.
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Accuracy: 0.0
+
+
+Sentence: a perfect example of rancid , well-intentioned , but shamelessly manipulative movie making .
+True label: neutral
+Predicted label: positive
+Sentiment score: 3
+Accuracy: 0.0
+
+
+Sentence: a perfect example of rancid , well-intentioned , but shamelessly manipulative movie making .
+True label: neutral
+Predicted label: positive
+Sentiment score: 3
+Accuracy: 0.0
+
+
+Sentence: a perfect example of rancid movie making .
+True label: positive
+Predicted label: positive
+Sentiment score: 3
+Accuracy: 1.0
+
+
+Sentence: a perfect example of rancid, but manipulative movie making.
+True label: neutral
+Predicted label: positive
+Sentiment score: 3
+Accuracy: 0.0
+
+
+Sentence: a perfect example of rancid but manipulative movie making.
+True label: neutral
+Predicted label: positive
+Sentiment score: 3
+Accuracy: 0.0
+
+
+Sentence: shamelessly manipulative movie making
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Accuracy: 1.0
+
+
+Sentence: manipulative movie making
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Accuracy: 1.0
+
+
+Sentence: manipulative movie
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Accuracy: 0.0
+
+
+Sentence: manipulative movie making
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Accuracy: 1.0
+
+
+Sentence: manipulative movie making
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Accuracy: 1.0
+
+
+Sentence: manipulative movie making
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Accuracy: 0.0
+
+
+Sentence: a perfect example of rancid , well-intentioned , but manipulative movie making .
+True label: positive
+Predicted label: positive
+Sentiment score: 3
+Accuracy: 1.0
+
+
+Sentence: a perfect example of rancid , well-intentioned , but manipulative movie making .
+True label: positive
+Predicted label: positive
+Sentiment score: 3
+Accuracy: 1.0
+
+
+Sentence: He passed the test, which was quite a surprise
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Accuracy: 1.0
+
+
+Sentence: He passed the test, it was quite a surprise
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Accuracy: 1.0
+
+
+Sentence: He passed the test which was quite a surprise
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Accuracy: 1.0
+
+
+Sentence: He passed the test which was quite a surprise
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Accuracy: 1.0
+
+
+Sentence: The team won the championship because they had practiced hard all year.
+True label: neutral
+Predicted label: positive
+Sentiment score: 2
+Accuracy: 0.0
+
+
+Sentence: this may not have the dramatic gut-wrenching impact of other holocaust films , but it is a compelling story.
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Accuracy: 0.0
+
+
+Sentence: this may not have the dramatic gut-wrenching impact of other holocaust films , but it is a compelling story.
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Accuracy: 0.0
+
+
+Sentence: I saw a dull and scary movie, it was a mess and a hazard
+True label: negative
+Predicted label: negative
+Sentiment score: -6
+Accuracy: 1.0
+
+
+Sentence: I saw a dull and scary movie, it was a mess and a hazard
+True label: negative
+Predicted label: negative
+Sentiment score: -6
+Accuracy: 1.0
+
+
+Sentence: It was too long but entertaining
+True label: positive
+Predicted label: positive
+Sentiment score: 2
+Sentence: I saw a dull and scary movie, it was a mess and a hazard
+True label: negative
+Predicted label: negative
+Sentiment score: -6
+Sentence: this may not have the dramatic gut-wrenching impact of other holocaust films , but it is a compelling story
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Sentence: a perfect example of rancid , well-intentioned , but shamelessly manipulative movie making
+True label: positive
+Predicted label: positive
+Sentiment score: 3
+Sentence: He passed the test which was quite a surprise.
+True label: neutral
+Predicted label: neutral
+Sentiment score: 0
+Sentence: manipulative movie making
+True label: negative
+Predicted label: neutral
+Sentiment score: 0
+Accuracy: 0.6666666666666666
+
+
